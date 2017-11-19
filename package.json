@@ -61,7 +61,7 @@
     "semantic-release": "^7.0.2",
     "style-loader": "^0.18.2",
     "uglify-js": "^3.0.28",
-    "uglifyjs-webpack-plugin": "^0.4.6",
+    "uglifyjs-webpack-plugin": "^1.1.0",
     "url-loader": "^0.5.9",
     "validate-commit-msg": "^2.14.0",
     "webpack": "^3.5.5",
