@@ -58,7 +58,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-hot-loader": "next",
-    "semantic-release": "^7.0.2",
+    "semantic-release": "^15.4.2",
     "style-loader": "^0.18.2",
     "uglify-js": "^3.0.28",
     "uglifyjs-webpack-plugin": "^0.4.6",
