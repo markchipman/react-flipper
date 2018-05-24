@@ -65,7 +65,7 @@
     "url-loader": "^0.5.9",
     "validate-commit-msg": "^2.14.0",
     "webpack": "^3.5.5",
-    "webpack-dashboard": "^1.0.0-5",
+    "webpack-dashboard": "^2.0.0",
     "webpack-dev-server": "^2.7.1"
   },
   "lint-staged": {
